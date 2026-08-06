@@ -1,0 +1,17 @@
+data/
+experiments/
+models/
+venv/
+.venv/
+.idea/
+.pytest_cache/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+src/outputs/
+src/workspace/
+outputs/
+*_aa_results.pkl
+*_authenticity_plus_fidelity.pkl
