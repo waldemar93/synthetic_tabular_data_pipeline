@@ -1,5 +1,9 @@
-data/
-experiments/
+data/**
+!data/**/
+!data/**/.gitkeep
+experiments/**
+!experiments/**/
+!experiments/**/.gitkeep
 models/
 venv/
 .venv/
@@ -13,5 +17,3 @@ __pycache__/
 src/outputs/
 src/workspace/
 outputs/
-*_aa_results.pkl
-*_authenticity_plus_fidelity.pkl
